@@ -85,7 +85,7 @@ author:
   bio              : "Research Intern at Microsoft and PhD Candidate at Oregon State University"
   location         : "Corvallis, Oregon"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8PgllRMAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ameyaKetkar"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "linkedin.com/in/ameya-ketkar"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
