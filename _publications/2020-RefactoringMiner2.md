@@ -1,7 +1,7 @@
 ---
 title: "RefactoringMiner 2.0"
 collection: publications
-permalink: /publication/2017-RefactoringMiner2
+permalink: /publication/2020-RefactoringMiner2
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020
 venue: 'TSE'
