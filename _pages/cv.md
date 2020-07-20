@@ -15,13 +15,21 @@ Education
 
 Work experience
 ======
-* 2014-2016: Technical Analyst
-  * Barclays Investment Bank, BTCI, Pune, India
-  
+* Spring & Summer 2020: Research Intern
+  * Microsoft (PROSE team)
+  * Supervisor(s): Gustavo Soares and Arjun Radhakrishna
+
+* Fall 2019: Visiting Graduate Researcher
+  * Concordia University, Canada
+  * Supervisor: Nikolaos Tsantalis 
+
 * 2016 - Current: Research Assistant
   * Oregon State University
   * Supervisor: Danny Dig
-  
+
+* 2014-2016: Technical Analyst
+  * Barclays Investment Bank, BTCI, Pune, India
+
 Skills
 ======
 * Programming
