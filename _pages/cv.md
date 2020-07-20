@@ -33,6 +33,7 @@ Work experience
 Skills
 ======
 * Programming
+  * Java, C#, Python, Haskell, 
 
 Publications
 ======
