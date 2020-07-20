@@ -17,15 +17,15 @@ Work experience
 ======
 * Spring & Summer 2020: Research Intern
   * Microsoft (PROSE team)
-  * Supervisor(s): Gustavo Soares and Arjun Radhakrishna
+  * Supervisor(s): [Gustavo Soares](https://gustavoasoares.github.io/) and [Arjun Radhakrishna](https://arjunradhakrishna.github.io/)
 
 * Fall 2019: Visiting Graduate Researcher
   * Concordia University, Canada
-  * Supervisor: Nikolaos Tsantalis 
+  * Supervisor: [Nikolaos Tsantalis](https://users.encs.concordia.ca/~nikolaos/)
 
 * 2016 - Current: Research Assistant
   * Oregon State University
-  * Supervisor: Danny Dig
+  * Supervisor: [Danny Dig](https://danny.cs.colorado.edu/)
 
 * 2014-2016: Technical Analyst
   * Barclays Investment Bank, BTCI, Pune, India
