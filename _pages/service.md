@@ -7,6 +7,4 @@ redirect_from:
   - /service
 ---
 
-Talks
-======
 * Program Committee: ICPC - Tool Demo, 2019
