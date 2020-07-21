@@ -6,6 +6,6 @@ permalink: /publication/2020-UnderstandingTypeChanges
 date: 2020-11-08
 venue: 'FSE'
 #paperurl: 'http://ameyaKetkar.github.io/files/TypeMigrationUltraLarge.pdf'
-#citation: 'Ameya Ketkar. 2018. Type migration in large-scale code bases. In Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2018). Association for Computing Machinery, New York, NY, USA, 965–967. DOI:https://doi.org/10.1145/3236024.3275434'
+citation: 'Ameya Ketkar, Nikolaos Tsantalis, and Danny Dig. 2017. Understanding Type Changs in Java. FSE-2020. DOI: 10.1145/3368089.3409725'
 ---
 [Download paper here](http://ameyaketkar.github.io/files//TypeMigrationLargeScaleSRC.pdf)
