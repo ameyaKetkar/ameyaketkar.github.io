@@ -32,8 +32,9 @@ Work experience
 
 Skills
 ======
-* Programming
-  * Java, C#, Python, Haskell, 
+* Technical
+  * Programming Languages: Java, C#, Python, Haskell, Coq, Idris, Scala
+  * 
 
 Publications
 ======
