@@ -8,3 +8,4 @@ redirect_from:
 ---
 
 * Program Committee: ICPC - Tool Demo, 2019
+* Program Committee: SCAM - Research Track, 2020
