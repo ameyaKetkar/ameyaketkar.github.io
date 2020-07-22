@@ -15,7 +15,7 @@ Education
 
 Work experience
 ======
-* Spring & Summer 2020: Research Intern
+* *Spring & Summer 2020:* Research Intern
   * Microsoft (PROSE team)
   * Supervisor(s): [Gustavo Soares](https://gustavoasoares.github.io/) and [Arjun Radhakrishna](https://arjunradhakrishna.github.io/)
 
@@ -23,7 +23,7 @@ Work experience
   * Concordia University, Canada
   * Supervisor: [Nikolaos Tsantalis](https://users.encs.concordia.ca/~nikolaos/)
 
-* 2016 - Current: Research Assistant
+* *2016 - Current:* Research Assistant
   * Oregon State University
   * Supervisor: [Danny Dig](https://danny.cs.colorado.edu/)
 
